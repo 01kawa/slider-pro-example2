@@ -6,14 +6,19 @@ demo is Example2（ http://bqworks.com/slider-pro/#example2 ）
 
 ==== Image Slider block option ====
 
-I adjusted to the setting of Slider　pro.
+I adjusted to the setting of Slider pro.
 please change (view.php).
 
 1)$navigationType・・・arrows/buttons
+
 2)$timeout・・・autoplayDelay
+
 3)$speed・・・fadeDuration
+
 4)$noAnimate・・・autoplay
+
 5)$pause・・・autoplayOnHover
+
 6)$maxWidth・・・ style="width: $maxWidth px"
 
 image size is width: 300, height: 300,
