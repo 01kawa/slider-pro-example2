@@ -1,7 +1,7 @@
 # slider-pro-example2
 
-concrete5 ImageSlider blocks template Slider Pro（http://bqworks.com/slider-pro/）version.
-demo is Example2（http://bqworks.com/slider-pro/#example2）
+concrete5 ImageSlider blocks template Slider Pro（ http://bqworks.com/slider-pro/ ）version.
+demo is Example2（ http://bqworks.com/slider-pro/#example2 ）
 
 
 ==== Image Slider block option ====
